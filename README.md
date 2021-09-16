@@ -2,7 +2,7 @@
 
 Pdf: https://openreview.net/forum?id=v5gjXpmR8J
 
-Code for practice ICLR 2021 paper on outlier detection, titled SSD, without requiring class labels of in-distribution training data.
+Code for practicing ICLR 2021 paper on outlier detection, titled SSD, without requiring class labels of in-distribution training data.
 
 
 ## Getting started
